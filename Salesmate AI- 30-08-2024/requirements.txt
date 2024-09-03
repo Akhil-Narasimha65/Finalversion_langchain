@@ -1,0 +1,12 @@
+openai
+langchain
+faiss-cpu
+PyPDF2
+tiktoken
+langchain_community
+PyMuPDF
+pypdf
+fitz
+python-dotenv
+pdfminer.six
+camelot-py[cv]
