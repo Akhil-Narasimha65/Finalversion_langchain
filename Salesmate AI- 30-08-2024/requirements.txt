@@ -2,6 +2,7 @@ openai
 langchain
 faiss-cpu
 PyPDF2
+tiktoken
 langchain_community
 PyMuPDF
 pypdf
