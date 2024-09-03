@@ -9,4 +9,3 @@ pypdf
 fitz
 python-dotenv
 pdfminer.six
-camelot-py[cv]
